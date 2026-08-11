@@ -1,5 +1,4 @@
-# GEOG5990M Final Project
-## Health and Wealth. An investigation into the correlation between property value and access to Health Services in London 
+# Health and Wealth. An investigation into the correlation between property value and access to Health Services in London 
 
 ### Project Rational
 Equity of access has been a focus of the NHS since it began in 1948 (Goodard and Smith, 2001) and with most research suggesting that low income has a direct correlation with heath care utilization (Copper et al, 2012), It is clear that lower socio-economic areas require improved access to support its populations. In contrast to this, property value has been shown to increase with proximity to local services, including hospitals and other health care services (Chen et al, 2022), making areas that provide the most support less accessible to the communities that need them most. 
